@@ -260,7 +260,7 @@ table {
 .underline-1::after {
   position: absolute;
   content: "";
-  background-image: url("/img/mark/mark.png");
+  background-image: url("https://github.com/hexschool/2022-web-layout-training/blob/main/2024%20web-camp/mark.png?raw=true");
   background-size: contain;
   width: 148px;
   height: 8px;
@@ -272,7 +272,7 @@ table {
 .underline-2::after {
   position: absolute;
   content: "";
-  background-image: url("/img/mark/mark.png");
+  background-image: url("https://github.com/hexschool/2022-web-layout-training/blob/main/2024%20web-camp/mark.png?raw=true");
   background-size: contain;
   background-repeat: no-repeat;
   width: 119px;
